@@ -8,5 +8,9 @@
 
 import Foundation
 
-print("Hello, World!")
+let logic = FizzBuzz()
+
+for idx in 1...100 {
+    print(logic.fizzbuzz_v1(number: idx))
+}
 

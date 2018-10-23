@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		08342CF4217EFC1800D8E7F9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08342CF3217EFC1800D8E7F9 /* main.swift */; };
+		08342CFB217EFC3E00D8E7F9 /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08342CFA217EFC3E00D8E7F9 /* FizzBuzz.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		08342CF0217EFC1800D8E7F9 /* FizzBuzz */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FizzBuzz; sourceTree = BUILT_PRODUCTS_DIR; };
 		08342CF3217EFC1800D8E7F9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		08342CFA217EFC3E00D8E7F9 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				08342CF3217EFC1800D8E7F9 /* main.swift */,
+				08342CFA217EFC3E00D8E7F9 /* FizzBuzz.swift */,
 			);
 			path = FizzBuzz;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				08342CF4217EFC1800D8E7F9 /* main.swift in Sources */,
+				08342CFB217EFC3E00D8E7F9 /* FizzBuzz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
